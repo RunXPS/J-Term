@@ -1,0 +1,63 @@
+01/05/2022 09:21:55:870 [Info ]: GlobalProtect service started (client version: 5.2.10-6, OS version: Microsoft Windows 10 Home , 64-bit).
+01/05/2022 09:24:19:999 [Info ]: Portal login completed with address fw.ncssm.edu and conect method of on-demand.
+01/05/2022 09:24:20:018 [Info ]: Network discovery started.
+01/05/2022 09:24:20:417 [Info ]: Auto Gateway login finished with address fw.ncssm.edu and user krasinski23r.
+01/05/2022 09:24:26:039 [Info ]: IPSec tunnel creation finished with Gateway fw.ncssm.edu.
+01/05/2022 09:24:26:039 [Info ]: Gateway selection(Priority-TCP-SSL-Weight): NCSSM GW(3-28-67-160), NCSSM GW1(1-25-66-70), NCSSM Durham Gateway(5-50-65-200). 
+01/05/2022 09:24:45:555 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 09:24:56:773 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 09:25:00:107 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 10:25:15:265 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 11:25:32:532 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 11:57:09:199 [Info ]: Tunnel is down due to network change.
+01/05/2022 11:57:09:199 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/05/2022 12:22:39:208 [Info ]: Tunnel is restored.
+01/05/2022 12:26:12:663 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 13:26:30:964 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 14:26:47:105 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 15:27:07:495 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 16:27:23:305 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/05/2022 16:48:30:042 [Info ]: Tunnel is down due to network change.
+01/05/2022 16:48:30:042 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/05/2022 17:49:35:923 [Info ]: User was logged out of Gateway fw.ncssm.edu.
+01/06/2022 09:02:08:477 [Info ]: Portal login completed with address fw.ncssm.edu and conect method of on-demand.
+01/06/2022 09:02:08:515 [Info ]: Network discovery started.
+01/06/2022 09:02:09:182 [Info ]: Auto Gateway login finished with address fw.ncssm.edu and user krasinski23r.
+01/06/2022 09:02:14:950 [Info ]: IPSec tunnel creation finished with Gateway fw.ncssm.edu.
+01/06/2022 09:02:14:950 [Info ]: Gateway selection(Priority-TCP-SSL-Weight): NCSSM GW(3-34-113-60), NCSSM GW1(1-55-121-54), NCSSM Durham Gateway(5-33-135-300). 
+01/06/2022 09:02:25:774 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 10:02:42:405 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 11:02:56:714 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 11:53:55:056 [Info ]: Tunnel is down due to network change.
+01/06/2022 11:53:55:056 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/06/2022 11:57:58:904 [Info ]: Tunnel is restored.
+01/06/2022 12:04:25:537 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 12:34:30:977 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 13:34:30:466 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 14:34:30:444 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 15:34:31:225 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/06/2022 15:44:18:004 [Info ]: Tunnel is down due to network change.
+01/06/2022 15:44:18:004 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/06/2022 16:43:58:532 [Info ]: User was logged out of Gateway fw.ncssm.edu.
+01/07/2022 08:51:29:372 [Info ]: Portal login completed with address fw.ncssm.edu and conect method of on-demand.
+01/07/2022 08:51:29:380 [Info ]: Network discovery started.
+01/07/2022 08:51:29:973 [Info ]: Auto Gateway login finished with address fw.ncssm.edu and user krasinski23r.
+01/07/2022 08:51:35:684 [Info ]: IPSec tunnel creation finished with Gateway fw.ncssm.edu.
+01/07/2022 08:51:35:684 [Info ]: Gateway selection(Priority-TCP-SSL-Weight): NCSSM GW(3-31-76-143), NCSSM GW1(1-30-77-118), NCSSM Durham Gateway(5-30-71-200). 
+01/07/2022 08:51:43:846 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 09:52:02:233 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 10:52:18:486 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 11:18:51:083 [Info ]: Tunnel is down due to network change.
+01/07/2022 11:18:51:083 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/07/2022 11:32:47:966 [Info ]: Tunnel is restored.
+01/07/2022 11:53:28:389 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 12:53:46:178 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 13:53:59:904 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 14:54:20:090 [Info ]: Completed HIP Report check with Gateway fw.ncssm.edu.
+01/07/2022 15:24:43:294 [Info ]: Tunnel is down due to network change.
+01/07/2022 15:24:43:294 [Info ]: Gateway NCSSM GW1: Checking network availability and restoring VPN connection when network is available.
+01/07/2022 15:59:52:540 [Info ]: User was logged out of Gateway fw.ncssm.edu.
+01/11/2022 00:23:49:683 [Info ]: GlobalProtect service stopped.
+01/11/2022 00:26:18:736 [Info ]: GlobalProtect service started (client version: 5.2.10-6, OS version: Microsoft Windows 10 Home , 64-bit).
+01/15/2022 16:19:49:653 [Info ]: GlobalProtect service stopped.
+01/16/2022 13:32:27:362 [Info ]: GlobalProtect service started (client version: 5.2.10-6, OS version: Microsoft Windows 10 Home , 64-bit).

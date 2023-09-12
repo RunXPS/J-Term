@@ -1,0 +1,408 @@
+(P16752-T8264)01/05/22 09:21:40:001[Debug  847]: No oem .inf existing.
+(P16752-T8264)01/05/22 09:21:44:550[Debug  409]: Driver inf file is installed successfully.
+(P16752-T8264)01/05/22 09:21:53:490[Debug  462]: Driver gets installed successfully.
+(P8120-T12400)01/05/22 09:21:54:481[Debug  469]: Set debug level as 4
+(P8120-T12400)01/05/22 09:21:55:040[Debug 1304]: Driver status is: 4.
+(P8120-T12400)01/05/22 09:21:55:045[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P8120-T12400)01/05/22 09:21:55:049[Debug  671]: Search only.
+(P8120-T12400)01/05/22 09:21:55:077[Debug 1304]: Driver status is: 4.
+(P8120-T12400)01/05/22 09:21:55:095[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P8120-T12400)01/05/22 09:21:55:102[Debug  671]: Search only.
+(P8120-T12400)01/05/22 09:21:55:112[Debug   94]: Driver file version is 6.0.0.2.
+(P8120-T12400)01/05/22 09:21:55:121[Debug  836]: Searching valid GP adapter.
+(P8120-T12400)01/05/22 09:21:55:134[Debug  902]: Searching: find device ROOT\PANGPD\0000.
+(P8120-T12400)01/05/22 09:21:55:138[Debug  920]: Searching: DevNode Status 0x180200b, Problem 0x0, count 0.
+(P8120-T12400)01/05/22 09:21:55:146[Debug  970]: Searching: Valid device id is ROOT\PANGPD\0000.
+(P8120-T12400)01/05/22 09:21:55:152[Debug  972]: Searching: Valid MTU is 1400.
+(P8120-T12400)01/05/22 09:21:55:159[Debug  973]: Searching: Valid instance id is {5A836CE3-07C1-4B18-BE0F-663B26075A76}.
+(P8120-T12400)01/05/22 09:21:55:316[Debug  975]: Searching: Valid inf file is C:\Windows\INF\oem78.inf.
+(P8120-T12400)01/05/22 09:21:55:317[Debug  140]: Init get valid adapter info: 1400-C:\Windows\INF\oem78.inf-{5A836CE3-07C1-4B18-BE0F-663B26075A76}-ROOT\PANGPD\0000.
+(P8120-T12400)01/05/22 09:21:55:324[Debug 1387]: Disable adapter be called.
+(P8120-T12400)01/05/22 09:21:55:337[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12400)01/05/22 09:21:55:341[Debug 1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T12400)01/05/22 09:21:55:473[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T12400)01/05/22 09:21:55:474[Debug 1254]: Disable Adapter success.
+(P8120-T12400)01/05/22 09:21:55:522[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12400)01/05/22 09:21:55:619[Debug 1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12400)01/05/22 09:21:55:830[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T12400)01/05/22 09:21:55:840[Debug 1419]: Disable adapter end.
+(P8120-T12444)01/05/22 09:21:58:159[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:22:26:906[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:22:26:907[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:24:19:458[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:24:20:005[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:24:20:551[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:24:20:551[Info   469]: Set debug level as 4
+(P8120-T224)01/05/22 09:24:20:587[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T224)01/05/22 09:24:20:783[Info   332]: Move binding order to the top
+(P8120-T224)01/05/22 09:24:20:786[Debug  427]: Binding order is modified
+(P8120-T224)01/05/22 09:24:20:792[Debug  458]: Found vif, index 49
+(P8120-T224)01/05/22 09:24:20:793[Info   298]: Register ends.
+(P8120-T224)01/05/22 09:24:21:810[Debug 1387]: Disable adapter be called.
+(P8120-T224)01/05/22 09:24:21:815[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T224)01/05/22 09:24:21:815[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T224)01/05/22 09:24:21:819[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T224)01/05/22 09:24:21:819[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T224)01/05/22 09:24:21:819[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T224)01/05/22 09:24:21:819[Debug 1419]: Disable adapter end.
+(P8120-T224)01/05/22 09:24:21:939[Debug 1425]: Enable adapter be called.
+(P8120-T224)01/05/22 09:24:21:943[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T224)01/05/22 09:24:21:943[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T224)01/05/22 09:24:21:975[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T224)01/05/22 09:24:21:976[Debug 1268]: Enable Adapter success.
+(P8120-T224)01/05/22 09:24:21:981[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T224)01/05/22 09:24:21:981[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T224)01/05/22 09:24:21:981[Debug 1457]: Enable adapter end.
+(P8120-T224)01/05/22 09:24:22:059[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T224)01/05/22 09:24:22:059[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T224)01/05/22 09:24:22:059[Info   241]: Adapter device started. 0x0180200b
+(P8120-T224)01/05/22 09:24:22:059[Info   245]: ----Driver Control is being started
+(P8120-T224)01/05/22 09:24:22:059[Info   493]: Access driver events.
+(P8120-T224)01/05/22 09:24:22:059[Info   510]: Device control set driver events.
+(P8120-T224)01/05/22 09:24:22:059[Info   550]: Device control set debug level as 3.
+(P8120-T224)01/05/22 09:24:22:059[Info   337]: Load driver control parameter 0x1.
+(P8120-T224)01/05/22 09:24:22:059[Info   615]: Device control set control parameter as 0x1.
+(P8120-T224)01/05/22 09:24:22:059[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T224)01/05/22 09:24:22:059[Debug 1203]: Device control get stat ends.
+(P8120-T224)01/05/22 09:24:22:059[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T224)01/05/22 09:24:22:059[Info   375]: Start send thread.
+(P8120-T224)01/05/22 09:24:22:059[Info   271]: Service callback table gets set.
+(P8120-T15284)01/05/22 09:24:22:096[Debug 1367]: New SendThread priority 2.
+(P8120-T12444)01/05/22 09:24:45:555[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:24:56:773[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 09:25:00:109[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 10:25:15:265[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 11:25:32:534[Info   469]: Set debug level as 4
+(P8120-T13100)01/05/22 11:57:09:201[Info   310]: Unregister ends.
+(P8120-T13100)01/05/22 11:57:09:202[Info   279]: ----Driver Control is being stopped
+(P8120-T13100)01/05/22 11:57:09:203[Info   401]: Send thread stops.
+(P8120-T13100)01/05/22 11:57:09:203[Debug 1387]: Disable adapter be called.
+(P8120-T13100)01/05/22 11:57:09:208[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 11:57:09:208[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T13100)01/05/22 12:22:30:233[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T13100)01/05/22 12:22:30:233[Debug 1254]: Disable Adapter success.
+(P8120-T13100)01/05/22 12:22:30:239[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:30:239[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T13100)01/05/22 12:22:30:239[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T13100)01/05/22 12:22:30:239[Debug 1419]: Disable adapter end.
+(P8120-T13100)01/05/22 12:22:34:829[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T13100)01/05/22 12:22:35:062[Info   332]: Move binding order to the top
+(P8120-T13100)01/05/22 12:22:35:069[Debug  411]: No need to adjust binding order
+(P8120-T13100)01/05/22 12:22:35:077[Debug  458]: Found vif, index 49
+(P8120-T13100)01/05/22 12:22:35:077[Info   298]: Register ends.
+(P8120-T13100)01/05/22 12:22:35:186[Debug 1387]: Disable adapter be called.
+(P8120-T13100)01/05/22 12:22:35:191[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:35:191[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T13100)01/05/22 12:22:35:195[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:35:195[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T13100)01/05/22 12:22:35:195[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T13100)01/05/22 12:22:35:195[Debug 1419]: Disable adapter end.
+(P8120-T13100)01/05/22 12:22:35:218[Debug 1425]: Enable adapter be called.
+(P8120-T13100)01/05/22 12:22:35:223[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:35:223[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T13100)01/05/22 12:22:35:236[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T13100)01/05/22 12:22:35:236[Debug 1268]: Enable Adapter success.
+(P8120-T13100)01/05/22 12:22:35:242[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:35:242[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T13100)01/05/22 12:22:35:243[Debug 1457]: Enable adapter end.
+(P8120-T13100)01/05/22 12:22:35:249[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 12:22:35:249[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T13100)01/05/22 12:22:35:250[Info   241]: Adapter device started. 0x0180200b
+(P8120-T13100)01/05/22 12:22:35:250[Info   245]: ----Driver Control is being started
+(P8120-T13100)01/05/22 12:22:35:250[Info   493]: Access driver events.
+(P8120-T13100)01/05/22 12:22:35:250[Info   510]: Device control set driver events.
+(P8120-T13100)01/05/22 12:22:35:250[Info   550]: Device control set debug level as 3.
+(P8120-T13100)01/05/22 12:22:35:250[Info   337]: Load driver control parameter 0x1.
+(P8120-T13100)01/05/22 12:22:35:250[Info   615]: Device control set control parameter as 0x1.
+(P8120-T13100)01/05/22 12:22:35:250[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T13100)01/05/22 12:22:35:250[Debug 1203]: Device control get stat ends.
+(P8120-T13100)01/05/22 12:22:35:250[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T13100)01/05/22 12:22:35:250[Info   375]: Start send thread.
+(P8120-T13100)01/05/22 12:22:35:250[Info   271]: Service callback table gets set.
+(P8120-T1548)01/05/22 12:22:35:273[Debug 1367]: New SendThread priority 2.
+(P8120-T12444)01/05/22 12:26:12:669[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 13:26:30:964[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 14:26:47:105[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 15:27:07:496[Info   469]: Set debug level as 4
+(P8120-T12444)01/05/22 16:27:23:306[Info   469]: Set debug level as 4
+(P8120-T13100)01/05/22 16:48:30:044[Info   310]: Unregister ends.
+(P8120-T13100)01/05/22 16:48:30:046[Info   279]: ----Driver Control is being stopped
+(P8120-T13100)01/05/22 16:48:30:046[Info   401]: Send thread stops.
+(P8120-T13100)01/05/22 16:48:30:046[Debug 1387]: Disable adapter be called.
+(P8120-T13100)01/05/22 16:48:30:088[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 16:48:30:089[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T13100)01/05/22 17:49:31:313[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T13100)01/05/22 17:49:31:313[Debug 1254]: Disable Adapter success.
+(P8120-T13100)01/05/22 17:49:31:317[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T13100)01/05/22 17:49:31:317[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T13100)01/05/22 17:49:31:317[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T13100)01/05/22 17:49:31:317[Debug 1419]: Disable adapter end.
+(P8120-T12444)01/05/22 17:49:35:931[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 09:02:08:513[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 09:02:08:514[Info   469]: Set debug level as 4
+(P8120-T9004)01/06/22 09:02:09:377[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T9004)01/06/22 09:02:09:988[Info   332]: Move binding order to the top
+(P8120-T9004)01/06/22 09:02:10:016[Debug  411]: No need to adjust binding order
+(P8120-T9004)01/06/22 09:02:10:030[Debug  458]: Found vif, index 49
+(P8120-T9004)01/06/22 09:02:10:031[Info   298]: Register ends.
+(P8120-T9004)01/06/22 09:02:10:393[Debug 1387]: Disable adapter be called.
+(P8120-T9004)01/06/22 09:02:10:398[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T9004)01/06/22 09:02:10:399[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T9004)01/06/22 09:02:10:403[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T9004)01/06/22 09:02:10:403[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T9004)01/06/22 09:02:10:403[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T9004)01/06/22 09:02:10:403[Debug 1419]: Disable adapter end.
+(P8120-T9004)01/06/22 09:02:10:458[Debug 1425]: Enable adapter be called.
+(P8120-T9004)01/06/22 09:02:10:463[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T9004)01/06/22 09:02:10:463[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T9004)01/06/22 09:02:10:641[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T9004)01/06/22 09:02:10:641[Debug 1268]: Enable Adapter success.
+(P8120-T9004)01/06/22 09:02:10:652[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T9004)01/06/22 09:02:10:652[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T9004)01/06/22 09:02:10:652[Debug 1457]: Enable adapter end.
+(P8120-T9004)01/06/22 09:02:10:658[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T9004)01/06/22 09:02:10:658[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T9004)01/06/22 09:02:10:658[Info   241]: Adapter device started. 0x0180200b
+(P8120-T9004)01/06/22 09:02:10:658[Info   245]: ----Driver Control is being started
+(P8120-T9004)01/06/22 09:02:10:658[Info   493]: Access driver events.
+(P8120-T9004)01/06/22 09:02:10:659[Info   510]: Device control set driver events.
+(P8120-T9004)01/06/22 09:02:10:659[Info   550]: Device control set debug level as 3.
+(P8120-T9004)01/06/22 09:02:10:659[Info   337]: Load driver control parameter 0x1.
+(P8120-T9004)01/06/22 09:02:10:659[Info   615]: Device control set control parameter as 0x1.
+(P8120-T9004)01/06/22 09:02:10:659[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T9004)01/06/22 09:02:10:659[Debug 1203]: Device control get stat ends.
+(P8120-T9004)01/06/22 09:02:10:659[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T9004)01/06/22 09:02:10:659[Info   375]: Start send thread.
+(P8120-T9004)01/06/22 09:02:10:659[Info   271]: Service callback table gets set.
+(P8120-T13160)01/06/22 09:02:10:690[Debug 1367]: New SendThread priority 2.
+(P8120-T12444)01/06/22 09:02:25:774[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 10:02:42:405[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 11:02:56:716[Info   469]: Set debug level as 4
+(P8120-T12712)01/06/22 11:53:55:058[Info   310]: Unregister ends.
+(P8120-T12712)01/06/22 11:53:55:061[Info   279]: ----Driver Control is being stopped
+(P8120-T12712)01/06/22 11:53:55:063[Info   401]: Send thread stops.
+(P8120-T12712)01/06/22 11:53:55:063[Debug 1387]: Disable adapter be called.
+(P8120-T12712)01/06/22 11:53:55:073[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:53:55:073[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T12712)01/06/22 11:57:51:266[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T12712)01/06/22 11:57:51:266[Debug 1254]: Disable Adapter success.
+(P8120-T12712)01/06/22 11:57:51:270[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:51:270[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12712)01/06/22 11:57:51:270[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T12712)01/06/22 11:57:51:270[Debug 1419]: Disable adapter end.
+(P8120-T12712)01/06/22 11:57:54:506[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T12712)01/06/22 11:57:54:996[Info   332]: Move binding order to the top
+(P8120-T12712)01/06/22 11:57:55:003[Debug  411]: No need to adjust binding order
+(P8120-T12712)01/06/22 11:57:55:011[Debug  458]: Found vif, index 49
+(P8120-T12712)01/06/22 11:57:55:011[Info   298]: Register ends.
+(P8120-T12712)01/06/22 11:57:55:458[Debug 1387]: Disable adapter be called.
+(P8120-T12712)01/06/22 11:57:55:463[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:55:463[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12712)01/06/22 11:57:55:468[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:55:468[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12712)01/06/22 11:57:55:468[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T12712)01/06/22 11:57:55:468[Debug 1419]: Disable adapter end.
+(P8120-T12712)01/06/22 11:57:55:496[Debug 1425]: Enable adapter be called.
+(P8120-T12712)01/06/22 11:57:55:500[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:55:501[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12712)01/06/22 11:57:55:512[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T12712)01/06/22 11:57:55:512[Debug 1268]: Enable Adapter success.
+(P8120-T12712)01/06/22 11:57:55:517[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:55:517[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T12712)01/06/22 11:57:55:518[Debug 1457]: Enable adapter end.
+(P8120-T12712)01/06/22 11:57:55:526[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 11:57:55:526[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T12712)01/06/22 11:57:55:527[Info   241]: Adapter device started. 0x0180200b
+(P8120-T12712)01/06/22 11:57:55:527[Info   245]: ----Driver Control is being started
+(P8120-T12712)01/06/22 11:57:55:527[Info   493]: Access driver events.
+(P8120-T12712)01/06/22 11:57:55:527[Info   510]: Device control set driver events.
+(P8120-T12712)01/06/22 11:57:55:527[Info   550]: Device control set debug level as 3.
+(P8120-T12712)01/06/22 11:57:55:527[Info   337]: Load driver control parameter 0x1.
+(P8120-T12712)01/06/22 11:57:55:527[Info   615]: Device control set control parameter as 0x1.
+(P8120-T12712)01/06/22 11:57:55:527[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T12712)01/06/22 11:57:55:527[Debug 1203]: Device control get stat ends.
+(P8120-T12712)01/06/22 11:57:55:527[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T12712)01/06/22 11:57:55:528[Info   375]: Start send thread.
+(P8120-T12712)01/06/22 11:57:55:528[Info   271]: Service callback table gets set.
+(P8120-T17784)01/06/22 11:57:55:558[Debug 1367]: New SendThread priority 2.
+(P8120-T17784)01/06/22 11:57:55:558[Info  1062]: Receive device start event but device already opened!
+(P8120-T12444)01/06/22 12:04:25:537[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 12:34:30:977[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 13:34:30:466[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 14:34:30:444[Info   469]: Set debug level as 4
+(P8120-T12444)01/06/22 15:34:31:225[Info   469]: Set debug level as 4
+(P8120-T12712)01/06/22 15:44:18:005[Info   310]: Unregister ends.
+(P8120-T12712)01/06/22 15:44:18:006[Info   279]: ----Driver Control is being stopped
+(P8120-T12712)01/06/22 15:44:18:007[Info   401]: Send thread stops.
+(P8120-T12712)01/06/22 15:44:18:007[Debug 1387]: Disable adapter be called.
+(P8120-T12712)01/06/22 15:44:18:040[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 15:44:18:115[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T12712)01/06/22 16:43:52:720[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T12712)01/06/22 16:43:52:720[Debug 1254]: Disable Adapter success.
+(P8120-T12712)01/06/22 16:43:52:725[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T12712)01/06/22 16:43:52:725[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T12712)01/06/22 16:43:52:725[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T12712)01/06/22 16:43:52:725[Debug 1419]: Disable adapter end.
+(P8120-T12444)01/06/22 16:43:58:588[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 08:51:29:375[Info   469]: Set debug level as 4
+(P8120-T10728)01/07/22 08:51:30:116[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T10728)01/07/22 08:51:30:995[Info   332]: Move binding order to the top
+(P8120-T10728)01/07/22 08:51:31:000[Debug  411]: No need to adjust binding order
+(P8120-T10728)01/07/22 08:51:31:008[Debug  458]: Found vif, index 49
+(P8120-T10728)01/07/22 08:51:31:009[Info   298]: Register ends.
+(P8120-T10728)01/07/22 08:51:31:298[Debug 1387]: Disable adapter be called.
+(P8120-T10728)01/07/22 08:51:31:321[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T10728)01/07/22 08:51:31:321[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T10728)01/07/22 08:51:31:324[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T10728)01/07/22 08:51:31:324[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T10728)01/07/22 08:51:31:324[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T10728)01/07/22 08:51:31:324[Debug 1419]: Disable adapter end.
+(P8120-T10728)01/07/22 08:51:31:380[Debug 1425]: Enable adapter be called.
+(P8120-T10728)01/07/22 08:51:31:385[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T10728)01/07/22 08:51:31:385[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T10728)01/07/22 08:51:31:560[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T10728)01/07/22 08:51:31:560[Debug 1268]: Enable Adapter success.
+(P8120-T10728)01/07/22 08:51:31:566[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T10728)01/07/22 08:51:31:566[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T10728)01/07/22 08:51:31:566[Debug 1457]: Enable adapter end.
+(P8120-T10728)01/07/22 08:51:31:574[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T10728)01/07/22 08:51:31:574[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T10728)01/07/22 08:51:31:574[Info   241]: Adapter device started. 0x0180200b
+(P8120-T10728)01/07/22 08:51:31:574[Info   245]: ----Driver Control is being started
+(P8120-T10728)01/07/22 08:51:31:574[Info   493]: Access driver events.
+(P8120-T10728)01/07/22 08:51:31:574[Info   510]: Device control set driver events.
+(P8120-T10728)01/07/22 08:51:31:574[Info   550]: Device control set debug level as 3.
+(P8120-T10728)01/07/22 08:51:31:574[Info   337]: Load driver control parameter 0x1.
+(P8120-T10728)01/07/22 08:51:31:574[Info   615]: Device control set control parameter as 0x1.
+(P8120-T10728)01/07/22 08:51:31:574[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T10728)01/07/22 08:51:31:574[Debug 1203]: Device control get stat ends.
+(P8120-T10728)01/07/22 08:51:31:574[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T10728)01/07/22 08:51:31:575[Info   375]: Start send thread.
+(P8120-T10728)01/07/22 08:51:31:575[Info   271]: Service callback table gets set.
+(P8120-T18940)01/07/22 08:51:31:623[Debug 1367]: New SendThread priority 2.
+(P8120-T12444)01/07/22 08:51:43:846[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 09:52:02:233[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 10:52:18:486[Info   469]: Set debug level as 4
+(P8120-T16572)01/07/22 11:18:51:085[Info   310]: Unregister ends.
+(P8120-T16572)01/07/22 11:18:51:087[Info   279]: ----Driver Control is being stopped
+(P8120-T16572)01/07/22 11:18:51:087[Info   401]: Send thread stops.
+(P8120-T16572)01/07/22 11:18:51:087[Debug 1387]: Disable adapter be called.
+(P8120-T16572)01/07/22 11:18:51:092[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:18:51:092[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T16572)01/07/22 11:32:40:367[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T16572)01/07/22 11:32:40:367[Debug 1254]: Disable Adapter success.
+(P8120-T16572)01/07/22 11:32:40:372[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:40:372[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T16572)01/07/22 11:32:40:372[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T16572)01/07/22 11:32:40:372[Debug 1419]: Disable adapter end.
+(P8120-T16572)01/07/22 11:32:43:172[Info  1255]: Register returns MAC 02:50:41:00:00:01.
+(P8120-T16572)01/07/22 11:32:43:904[Info   332]: Move binding order to the top
+(P8120-T16572)01/07/22 11:32:43:911[Debug  411]: No need to adjust binding order
+(P8120-T16572)01/07/22 11:32:43:918[Debug  458]: Found vif, index 49
+(P8120-T16572)01/07/22 11:32:43:918[Info   298]: Register ends.
+(P8120-T16572)01/07/22 11:32:44:226[Debug 1387]: Disable adapter be called.
+(P8120-T16572)01/07/22 11:32:44:230[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:44:230[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T16572)01/07/22 11:32:44:235[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:44:235[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T16572)01/07/22 11:32:44:235[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T16572)01/07/22 11:32:44:235[Debug 1419]: Disable adapter end.
+(P8120-T16572)01/07/22 11:32:44:293[Debug 1425]: Enable adapter be called.
+(P8120-T16572)01/07/22 11:32:44:298[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:44:298[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T16572)01/07/22 11:32:44:309[Debug  576]: Set adapter ctrl code 0x1 success.
+(P8120-T16572)01/07/22 11:32:44:309[Debug 1268]: Enable Adapter success.
+(P8120-T16572)01/07/22 11:32:44:315[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:44:315[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T16572)01/07/22 11:32:44:316[Debug 1457]: Enable adapter end.
+(P8120-T16572)01/07/22 11:32:44:322[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 11:32:44:322[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T16572)01/07/22 11:32:44:322[Info   241]: Adapter device started. 0x0180200b
+(P8120-T16572)01/07/22 11:32:44:322[Info   245]: ----Driver Control is being started
+(P8120-T16572)01/07/22 11:32:44:322[Info   493]: Access driver events.
+(P8120-T16572)01/07/22 11:32:44:322[Info   510]: Device control set driver events.
+(P8120-T16572)01/07/22 11:32:44:322[Info   550]: Device control set debug level as 3.
+(P8120-T16572)01/07/22 11:32:44:396[Info   337]: Load driver control parameter 0x1.
+(P8120-T16572)01/07/22 11:32:44:396[Info   615]: Device control set control parameter as 0x1.
+(P8120-T16572)01/07/22 11:32:44:396[Debug 1051]: Device control get mac 02:50:41:00:00:01, size 6.
+(P8120-T16572)01/07/22 11:32:44:396[Debug 1203]: Device control get stat ends.
+(P8120-T16572)01/07/22 11:32:44:396[Info   361]: Driver version: 0x600, MTU: 1400, Flags: 0x3, others: 1024-0-1.
+(P8120-T16572)01/07/22 11:32:44:397[Info   375]: Start send thread.
+(P8120-T16572)01/07/22 11:32:44:397[Info   271]: Service callback table gets set.
+(P8120-T17096)01/07/22 11:32:44:438[Debug 1367]: New SendThread priority 2.
+(P8120-T17096)01/07/22 11:32:44:438[Info  1062]: Receive device start event but device already opened!
+(P8120-T12444)01/07/22 11:53:28:389[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 12:53:46:178[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 13:53:59:904[Info   469]: Set debug level as 4
+(P8120-T12444)01/07/22 14:54:20:090[Info   469]: Set debug level as 4
+(P8120-T16572)01/07/22 15:24:43:295[Info   310]: Unregister ends.
+(P8120-T16572)01/07/22 15:24:43:367[Info   279]: ----Driver Control is being stopped
+(P8120-T16572)01/07/22 15:24:43:368[Info   401]: Send thread stops.
+(P8120-T16572)01/07/22 15:24:43:368[Debug 1387]: Disable adapter be called.
+(P8120-T16572)01/07/22 15:24:44:460[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 15:24:44:460[Info  1185]: DevNode Status 0x180200b, Problem 0x0.
+(P8120-T16572)01/07/22 15:59:10:520[Debug  576]: Set adapter ctrl code 0x2 success.
+(P8120-T16572)01/07/22 15:59:10:520[Debug 1254]: Disable Adapter success.
+(P8120-T16572)01/07/22 15:59:10:943[Info  1166]: enum devevice ROOT\PANGPD\0000.
+(P8120-T16572)01/07/22 15:59:10:943[Info  1185]: DevNode Status 0x1802401, Problem 0x16.
+(P8120-T16572)01/07/22 15:59:10:944[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P8120-T16572)01/07/22 15:59:10:944[Debug 1419]: Disable adapter end.
+(P8120-T12444)01/07/22 15:59:52:540[Info   469]: Set debug level as 4
+(P8120-T12400)01/11/22 00:23:48:934[Info   279]: ----Driver Control is being stopped
+(P4868-T7064)01/11/22 00:26:06:873[Debug  469]: Set debug level as 4
+(P4868-T7064)01/11/22 00:26:11:045[Debug 1304]: Driver status is: 1.
+(P4868-T7064)01/11/22 00:26:11:054[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P4868-T7064)01/11/22 00:26:11:054[Debug  671]: Search only.
+(P4868-T7064)01/11/22 00:26:11:054[Debug 1304]: Driver status is: 1.
+(P4868-T7064)01/11/22 00:26:11:054[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P4868-T7064)01/11/22 00:26:11:054[Debug  671]: Search only.
+(P4868-T7064)01/11/22 00:26:11:085[Debug   94]: Driver file version is 6.0.0.2.
+(P4868-T7064)01/11/22 00:26:11:100[Debug  836]: Searching valid GP adapter.
+(P4868-T7064)01/11/22 00:26:11:100[Debug  902]: Searching: find device ROOT\PANGPD\0000.
+(P4868-T7064)01/11/22 00:26:11:100[Debug  920]: Searching: DevNode Status 0x1802401, Problem 0x16, count 0.
+(P4868-T7064)01/11/22 00:26:11:453[Debug  576]: Set adapter ctrl code 0x1 success.
+(P4868-T7064)01/11/22 00:26:11:454[Debug  957]: Searching: Enable Adapter success, count 0.
+(P4868-T7064)01/11/22 00:26:11:455[Debug  920]: Searching: DevNode Status 0x180200b, Problem 0x0, count 1.
+(P4868-T7064)01/11/22 00:26:11:456[Debug  970]: Searching: Valid device id is ROOT\PANGPD\0000.
+(P4868-T7064)01/11/22 00:26:11:458[Debug  972]: Searching: Valid MTU is 1400.
+(P4868-T7064)01/11/22 00:26:11:458[Debug  973]: Searching: Valid instance id is {5A836CE3-07C1-4B18-BE0F-663B26075A76}.
+(P4868-T7064)01/11/22 00:26:16:357[Debug  975]: Searching: Valid inf file is C:\Windows\INF\oem78.inf.
+(P4868-T7064)01/11/22 00:26:16:357[Debug  140]: Init get valid adapter info: 1400-C:\Windows\INF\oem78.inf-{5A836CE3-07C1-4B18-BE0F-663B26075A76}-ROOT\PANGPD\0000.
+(P4868-T7064)01/11/22 00:26:16:357[Debug 1387]: Disable adapter be called.
+(P4868-T7064)01/11/22 00:26:16:373[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P4868-T7064)01/11/22 00:26:16:373[Debug 1185]: DevNode Status 0x180200b, Problem 0x0.
+(P4868-T7064)01/11/22 00:26:17:957[Debug  576]: Set adapter ctrl code 0x2 success.
+(P4868-T7064)01/11/22 00:26:17:957[Debug 1254]: Disable Adapter success.
+(P4868-T7064)01/11/22 00:26:17:967[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P4868-T7064)01/11/22 00:26:17:967[Debug 1185]: DevNode Status 0x1802401, Problem 0x16.
+(P4868-T7064)01/11/22 00:26:17:968[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P4868-T7064)01/11/22 00:26:17:968[Debug 1419]: Disable adapter end.
+(P4868-T7064)01/15/22 16:19:49:324[Info   279]: ----Driver Control is being stopped
+(P4300-T5144)01/16/22 13:31:50:628[Debug  469]: Set debug level as 4
+(P4300-T5144)01/16/22 13:32:20:374[Debug 1304]: Driver status is: 1.
+(P4300-T5144)01/16/22 13:32:20:374[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P4300-T5144)01/16/22 13:32:20:374[Debug  671]: Search only.
+(P4300-T5144)01/16/22 13:32:20:374[Debug 1304]: Driver status is: 1.
+(P4300-T5144)01/16/22 13:32:20:389[Debug  668]: Found pangpd device ROOT\PANGPD\0000, remove it now.
+(P4300-T5144)01/16/22 13:32:20:389[Debug  671]: Search only.
+(P4300-T5144)01/16/22 13:32:20:421[Debug   94]: Driver file version is 6.0.0.2.
+(P4300-T5144)01/16/22 13:32:20:421[Debug  836]: Searching valid GP adapter.
+(P4300-T5144)01/16/22 13:32:20:421[Debug  902]: Searching: find device ROOT\PANGPD\0000.
+(P4300-T5144)01/16/22 13:32:20:421[Debug  920]: Searching: DevNode Status 0x1802401, Problem 0x16, count 0.
+(P4300-T5144)01/16/22 13:32:20:642[Debug  576]: Set adapter ctrl code 0x1 success.
+(P4300-T5144)01/16/22 13:32:20:643[Debug  957]: Searching: Enable Adapter success, count 0.
+(P4300-T5144)01/16/22 13:32:20:644[Debug  920]: Searching: DevNode Status 0x180200b, Problem 0x0, count 1.
+(P4300-T5144)01/16/22 13:32:20:644[Debug  970]: Searching: Valid device id is ROOT\PANGPD\0000.
+(P4300-T5144)01/16/22 13:32:20:644[Debug  972]: Searching: Valid MTU is 1400.
+(P4300-T5144)01/16/22 13:32:20:645[Debug  973]: Searching: Valid instance id is {5A836CE3-07C1-4B18-BE0F-663B26075A76}.
+(P4300-T5144)01/16/22 13:32:25:199[Debug  975]: Searching: Valid inf file is C:\Windows\INF\oem78.inf.
+(P4300-T5144)01/16/22 13:32:25:243[Debug  140]: Init get valid adapter info: 1400-C:\Windows\INF\oem78.inf-{5A836CE3-07C1-4B18-BE0F-663B26075A76}-ROOT\PANGPD\0000.
+(P4300-T5144)01/16/22 13:32:25:256[Debug 1387]: Disable adapter be called.
+(P4300-T5144)01/16/22 13:32:25:554[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P4300-T5144)01/16/22 13:32:25:569[Debug 1185]: DevNode Status 0x180200b, Problem 0x0.
+(P4300-T5144)01/16/22 13:32:26:986[Debug  576]: Set adapter ctrl code 0x2 success.
+(P4300-T5144)01/16/22 13:32:26:991[Debug 1254]: Disable Adapter success.
+(P4300-T5144)01/16/22 13:32:27:015[Debug 1166]: enum devevice ROOT\PANGPD\0000.
+(P4300-T5144)01/16/22 13:32:27:025[Debug 1185]: DevNode Status 0x1802401, Problem 0x16.
+(P4300-T5144)01/16/22 13:32:27:025[Debug 1395]: after disable adapter, get adapter status 0x1802401
+(P4300-T5144)01/16/22 13:32:27:045[Debug 1419]: Disable adapter end.
