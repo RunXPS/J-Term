@@ -1,0 +1,28 @@
+<!doctype html>
+<!--Author: Morrison-->
+
+<html lang="en">
+<head>
+<title>Smart Shape</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="smartShape.css"/>
+<script src="smartShape.js"></script>
+<script src="Square.js"></script>
+<script src="Circle.js"></script>
+<script src="Triangle.js"></script>
+</head>
+<body>
+    <h1>Smart Shape</h1>
+    <canvas id="surface" height="500" width="800">you fool get a better browser</canvas>
+
+    <p>Pick a Shape Color:<input type="color" id="colorChooser"></input></p>
+    <p>Pick a backgroud Color:<input type="color" id="bgColorChooser"></input></p>
+    <p>Pick a Size:<input type="range" min="0" max="300" value="100" id="sizeSlider"></input> <span id="sizeSpot"></span></p>
+    
+    <p>Pick a Shape:
+        <button id="squareButton">SQUARE</button>
+        <button id="circleButton">CIRCLE</button>
+        <button id="triangleButton">TRIANGLE</button>
+    </p>
+</body>
+</html>
